@@ -1,0 +1,11 @@
+## Build folder
+target/
+
+## Out folder
+out/
+
+## IntelliJ environment setting folder
+.idea/
+
+## IntelliJ project file
+*.iml
